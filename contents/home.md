@@ -1,5 +1,5 @@
 [![HouPingqing](https://img.shields.io/badge/HouPingqing-github-blue?logo=github)](https://github.com/houpingqing)
- [![ORCID](https://img.shields.io/badge/ORCID-0009-0007-5800-0416-green?logo=ORCID&logoColor=white)](https://orcid.org/0009-0007-5800-0416)
+ [![ORCID](https://img.shields.io/badge/ORCID-0009-0007-5800-0416-green?logo=ORCID&logoColor=white)](https://orcid.org/0009--0007--5800--0416)
 <div style="text-align: justify;">
 
 Respected professors, my name is Hou Pingqing. I am from the School of Computer Science and Technology at Anhui University of Technology, majoring in Internet of Things Engineering. My GPA is 3.8 out of 4.5, ranking 13th out of 89 students, and I have achieved a score of 444 in CET-4.
